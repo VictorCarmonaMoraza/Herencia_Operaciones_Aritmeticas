@@ -1,0 +1,16 @@
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia\Herencia\bin\Debug\net5.0\Herencia.exe
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia\Herencia\bin\Debug\net5.0\Herencia.deps.json
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia\Herencia\bin\Debug\net5.0\Herencia.runtimeconfig.json
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia\Herencia\bin\Debug\net5.0\Herencia.runtimeconfig.dev.json
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia\Herencia\bin\Debug\net5.0\Herencia.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia\Herencia\bin\Debug\net5.0\ref\Herencia.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia\Herencia\bin\Debug\net5.0\Herencia.pdb
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia\Herencia\obj\Debug\net5.0\Herencia.csproj.AssemblyReference.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia\Herencia\obj\Debug\net5.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia\Herencia\obj\Debug\net5.0\Herencia.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia\Herencia\obj\Debug\net5.0\Herencia.AssemblyInfo.cs
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia\Herencia\obj\Debug\net5.0\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia\Herencia\obj\Debug\net5.0\Herencia.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia\Herencia\obj\Debug\net5.0\ref\Herencia.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia\Herencia\obj\Debug\net5.0\Herencia.pdb
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia\Herencia\obj\Debug\net5.0\Herencia.genruntimeconfig.cache
